@@ -12,3 +12,9 @@ The Stocks Market is a common hub where buyers and sellers come together to buy 
 
 ## Observations/Results:
 Finally, we can observe that our proposed model has successfully predicted trend in the stock market with over 100+ listed companies in NSE and figures below summarize our findings in accordance with our training results. 
+
+<img src="https://github.com/AlphaVS-76/StockMarket_Trend_Prediction/blob/main/table.jpg" width="500px">
+<img src="https://github.com/AlphaVS-76/StockMarket_Trend_Prediction/blob/main/train.jpg" width="500px">
+<img src="https://github.com/AlphaVS-76/StockMarket_Trend_Prediction/blob/main/test.jpg" width="500px">
+
+The best output of the proposed model happened to be approximately 64.29% as a result of numerous trial and error regarding the neural network layers positioning for the generator and discriminator model.
